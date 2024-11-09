@@ -13,8 +13,8 @@ Employee churn is fundamentally the attrition rate and retention rate of employe
 This project is done to visualize the current churn rate of employees in a company and predict current employees who might leave the company. The data set can be obtained from this [link] (https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset).
 
 This project cover the following steps:
-           1.Exploratory Analysis
-           2.Data visualization
-           3.Cluster Analysis
-           4.Building a Prediction Model
-           5.Evaluating Model Performance
+ * Exploratory Analysis
+ * Data visualization
+ * Cluster Analysis
+ * Building a Prediction Model
+ * Evaluating Model Performance
