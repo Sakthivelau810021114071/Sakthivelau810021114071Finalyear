@@ -10,4 +10,10 @@ Employee churn is fundamentally the attrition rate and retention rate of employe
    <img alt="Customer Churn Study" title="Employee Churn Visual" src="https://s16353.pcdn.co/wp-content/uploads/2018/06/Churn.png">
 </p>
 
-This project is done to visualize the current churn rate of employees in a company and predict current employees who might leave the company. The data set can be obtained from this [link](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset). Here, the employee churn is predicted using 3 models: Logistic Regression, Random Forrest Classifier and an Artificial Neural Network.
+This project is done to visualize the current churn rate of employees in a company and predict current employees who might leave the company. The data set can be obtained from this [link] https://aws.amazon.com/s3/.
+This project cover the following steps:
+           1.Exploratory Analysis
+           2.Data visualization
+           3.Cluster Analysis
+           4.Building a Prediction Model
+           5.Evaluating Model Performance
