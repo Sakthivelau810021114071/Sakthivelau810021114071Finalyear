@@ -1,0 +1,6 @@
+#import modules
+import pandas  # for dataframes
+import matplotlib.pyplot as plt # for plotting graphs
+import seaborn as sns # for plotting graphs
+% matplotlib inline
+# You have to include the full link to the csv file containing your dataset
